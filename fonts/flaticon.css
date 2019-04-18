@@ -33,3 +33,8 @@ margin-left: 20px;
 .flaticon-food-2:before { content: "\f101"; }
 .flaticon-food-1:before { content: "\f102"; }
 .flaticon-food:before { content: "\f103"; }
+
+    $font-Flaticon-breakfast-1: "\f100";
+    $font-Flaticon-food-2: "\f101";
+    $font-Flaticon-food-1: "\f102";
+    $font-Flaticon-food: "\f103";
