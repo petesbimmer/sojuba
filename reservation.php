@@ -8,9 +8,9 @@
 
         // Get the form fields and remove whitespace.
 
-        $date = trim($_POST["date"]);
+        $date = trim($_POST["date"]);echo date( m/d/Y)
 
-        $time = trim($_POST["time"]);
+        $time = trim($_POST["time"]); echo time(h:i)
 
 		$people_no = trim($_POST["people_no"]);
 
@@ -40,19 +40,19 @@
 
         // FIXME: Update this to your desired email address.
 
-        $recipient = "support@rstheme.com, $email_add";
+        $recipient = "$email_add";
 
 
 
         // Set the email subject.
 
-        $subject = "Khadok reservation form";
+        $subject = "Your Reservation Request at Sojuba";
 
 
 
         // Build the email content.
 
-        $email_content = "Date: $date\n";
+        $email_content = "Date: $date\n"; echo date( h:i a m/d/Y, strtotime($date));
 
 		$email_content .= "Time: $time\n";
 
@@ -66,7 +66,7 @@
 
         // Build the email headers.
 
-        $email_headers = "From Khadok\n";
+        $email_headers = "From Sojuba";
 
 
 
@@ -75,10 +75,9 @@
         if (mail($recipient, $subject, $email_content, $email_headers)) {
 
             // Set a 200 (okay) response code.
-
             http_response_code(200);
 
-            echo "Thank You! Your message has been sent.";
+            echo "Your reservation at Sojuba on $date $time has been made.";
 
         } else {
 
@@ -86,7 +85,7 @@
 
             http_response_code(500);
 
-            echo "Oops! Something went wrong and we couldn't send your message.";
+            echo "Oops! Something went wrong and we couldn't process your reservation.";
 
         }
 

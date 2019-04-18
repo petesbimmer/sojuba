@@ -21,10 +21,10 @@
 
         // Set the recipient email address.
         // FIXME: Update this to your desired email address.
-        $recipient = "support@rstheme.com";
+        $recipient = "sojuba617@gmail.com;
 
         // Set the email subject.
-        $subject = "Request a Quote from $name";
+        $subject = "Message from $name";
 
         // Build the email content.
         $email_content = "Name: $name\n";

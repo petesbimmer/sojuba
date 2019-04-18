@@ -48,13 +48,13 @@
 
         // FIXME: Update this to your desired email address.
 
-        $recipient = "support@rstheme.com, $email";
+        $recipient = "sojuba617@gmail.com, $email";
 
 
 
         // Set the email subject.
 
-        $subject = "Khadok reservation form";
+        $subject = "Sojuba Reservation Request";
 
 
 

@@ -161,7 +161,7 @@ a {
   text-decoration: none;
 }
 a:hover {
-  color: #f10909;
+  color: #39bf4f;
   text-decoration: none;
 }
 a:active,
@@ -177,45 +177,45 @@ ul {
   clear: both;
 }
 .rs-menu a.active {
-  color: #f10909 !important;
+  color: #39bf4f !important;
 }
 .rs-menu ul > li.active > a {
-  color: #f10909 !important;
+  color: #39bf4f !important;
 }
 .nav-menu > li > a:hover,
 #inner .rs-menu li > a:hover,
 .nav-menu > .current_page_item > a,
 .nav-menu > .current-menu-item > a,
 .nav-menu > .current-menu-ancestor > a {
-  color: #f10909;
+  color: #39bf4f;
 }
 .rs-menu ul ul li:hover > a,
 .nav-menu ul .current-menu-item a,
 .nav-menu ul .current_page_item a,
 .mega-menu li p a:hover {
-  color: #f10909;
+  color: #39bf4f;
 }
 .rs-menu ul ul li {
-  border-bottom: 1px solid #c00707 !important;
+  border-bottom: 1px solid #39bf4f !important;
 }
 .nav-menu .mega-menu .sub-menu a:hover,
 .nav-menu .mega-menu li div.mega-menu-img a:hover,
 .nav-menu .mega-menu li div.mega-menu-img a:hover h2 {
-  color: #f10909;
+  color: #39bf4f;
 }
 body .nav-menu .sub-menu li > a:hover,
 body .nav-menu ul .active > a {
   color: #000 !important;
 }
 .rs-menu ul li a.hover {
-  color: #f10909;
+  color: #39bf4f;
 }
 ::-moz-selection {
-  background: #f10909;
+  background: #39bf4f;
   text-shadow: none;
 }
 ::selection {
-  background: #f10909;
+  background: #39bf4f;
   text-shadow: none;
   color: #ffffff;
 }
@@ -224,7 +224,7 @@ body .nav-menu ul .active > a {
 }
 .browserupgrade {
   margin: 26px 0;
-  background: #f10909;
+  background: #39bf4f;
   color: #333333;
   padding: 26px 0;
 }
@@ -269,7 +269,7 @@ body .nav-menu ul .active > a {
   border: none;
 }
 .rs-menu ul ul {
-  background: #f10909;
+  background: #39bf4f;
 }
 .header-area {
   position: absolute;
@@ -307,7 +307,7 @@ body .nav-menu ul .active > a {
   font-weight: 400;
 }
 .main-menu ul li a:hover {
-  color: #f10909 !important;
+  color: #39bf4f !important;
   background: transparent !important;
 }
 .multi-level li ul {
@@ -324,10 +324,10 @@ body .nav-menu ul .active > a {
 }
 .main-menu ul li a.active2,
 #inner .main-menu ul li a.active2 {
-  color: #f10909 !important;
+  color: #39bf4f !important;
 }
 #inner .main-menu ul li a:hover {
-  color: #f10909 !important;
+  color: #39bf4f !important;
 }
 .dropdown-menu {
   border: none !important;
@@ -373,7 +373,7 @@ body .nav-menu ul .active > a {
 .mega-dropdown-menu > li ul > li > a:hover,
 .mega-dropdown-menu > li ul > li > a:focus {
   text-decoration: none;
-  color: #f10909;
+  color: #39bf4f;
 }
 .mega-dropdown-menu .dropdown-header {
   font-size: 18px;
@@ -392,7 +392,7 @@ body .nav-menu ul .active > a {
 }
 .slider-menu h3:after,
 .todays-menu h3:after {
-  background: #f10909;
+  background: #39bf4f;
   height: 1px;
   width: 100%;
   content: "";
@@ -412,7 +412,7 @@ body .nav-menu ul .active > a {
 .todays-menu .inner .price {
   margin-left: 10px;
   font-size: 18px;
-  color: #f10909;
+  color: #39bf4f;
 }
 .slider-menu .inner .images a,
 .todays-menu .inner .images a {
@@ -502,7 +502,7 @@ body .nav-menu ul .active > a {
   padding: 2px 0;
 }
 #inner .header-top .social-icon ul li a:hover {
-  color: #f10909;
+  color: #39bf4f;
 }
 #inner .header-top .social-icon ul li:nth-child(6) a {
   border-right: 1px solid #505050;
@@ -531,10 +531,10 @@ body .nav-menu ul .active > a {
   padding-left: 24px;
 }
 #inner .header-top .top-hour li a sup {
-  color: #f10909;
+  color: #39bf4f;
 }
 #inner .header-top .top-hour li a:hover {
-  color: #f10909;
+  color: #39bf4f;
 }
 #inner .header-top .top-hour li:hover ul {
   opacity: 1;
@@ -741,12 +741,12 @@ body .nav-menu ul .active > a {
   width: 58px;
   height: 60px;
   line-height: 55px;
-  background: #f10909;
-  transition: all 0.5s ease 0s;
+  background: #39bf4f;
+  transition: all 1.5s ease 0s;
   color: #fff;
 }
 .slider-main .owl-nav .owl-prev:hover i {
-  background: #a70606;
+  background: #39bf4f;
 }
 .slider-main .owl-nav .owl-next {
   position: absolute;
@@ -758,9 +758,9 @@ body .nav-menu ul .active > a {
   width: 58px;
   height: 60px;
   line-height: 55px;
-  background: #f10909;
+  background: #39bf4f;
   color: #fff;
-  transition: all 0.5s ease 0s;
+  transition: all 1.5s ease 0s;
 }
 .slider-main .owl-nav .owl-next:hover i {
   background: #a70606;
@@ -801,12 +801,12 @@ body .nav-menu ul .active > a {
   text-transform: uppercase;
   color: #fff;
   line-height: 18px;
-  border: 3px solid #f10909;
+  border: 3px solid #39bf4f;
   padding: 14px 36px;
 }
 .slider-main .dsc .btn1 {
   transform: skewX(-19deg);
-  background: #f10909;
+  background: #39bf4f;
   position: relative;
   display: inline-block;
   margin-right: 30px;
@@ -817,11 +817,11 @@ body .nav-menu ul .active > a {
 }
 .slider-main .dsc .btn1:hover {
   background: transparent;
-  border: 3px solid #f10909;
+  border: 3px solid #39bf4f;
 }
 .slider-main .dsc .btn2 {
   transform: skewX(-19deg);
-  border: 3px solid #f10909;
+  border: 3px solid #39bf4f;
   position: relative;
   display: inline-block;
 }
@@ -830,8 +830,8 @@ body .nav-menu ul .active > a {
   display: inline-block;
 }
 .slider-main .dsc .btn2:hover {
-  background: #f10909;
-  border: 3px solid #f10909;
+  background: #39bf4f;
+  border: 3px solid #39bf4f;
 }
 #logo-slider.owl-carousel .owl-item img {
   padding: 0 10px;
@@ -865,7 +865,7 @@ body .nav-menu ul .active > a {
 .our-story .container h2 {
   font-size: 48px;
   line-height: 50px;
-  color: #f10909;
+  color: #39bf4f;
   font-family: 'CookieRegular';
 }
 .our-story .container h3 {
@@ -925,7 +925,7 @@ body .nav-menu ul .active > a {
   text-transform: uppercase;
   color: #101010;
   line-height: 18px;
-  border: 3px solid #f10909;
+  border: 3px solid #39bf4f;
   padding: 14px 36px;
   transform: skewX(-19deg) !important;
   font-weight: 500;
@@ -937,7 +937,7 @@ body .nav-menu ul .active > a {
   display: block;
 }
 .read-more:hover {
-  background: #f10909;
+  background: #39bf4f;
   color: #fff !important;
 }
 .about-area {
@@ -960,12 +960,12 @@ body .nav-menu ul .active > a {
   color: #101010;
 }
 .about-area .inner strong span {
-  color: #f10909;
+  color: #39bf4f;
 }
 .about-area .inner a {
   font-weight: 600;
   text-transform: uppercase;
-  color: #f10909;
+  color: #39bf4f;
 }
 .about-area .inner a:hover {
   color: #101010;
@@ -997,7 +997,7 @@ body .nav-menu ul .active > a {
   padding: 0 15px 0 0;
 }
 .home2 #main-slider h1 span {
-  color: #f10909;
+  color: #39bf4f;
 }
 .home2 #main-slider h2 {
   line-height: 70px;
@@ -1027,23 +1027,23 @@ body .nav-menu ul .active > a {
   max-width: 1170px;
   right: 0;
   border: none;
-  background: #f10909;
+  background: #39bf4f;
   padding: 16px 22px;
   margin-right: 17px;
   font-weight: 500;
-  border: 2px solid #f10909;
+  border: 2px solid #39bf4f;
 }
 .home2 #main-slider .dsc .btn1:hover,
 .home2 #main-slider .dsc .btn2:hover {
   background: transparent;
-  border: 2px solid #f10909;
+  border: 2px solid #39bf4f;
 }
 .home2 #main-slider .dsc .btn2 {
-  border: 2px solid #f10909;
+  border: 2px solid #39bf4f;
   background: transparent;
 }
 .home2 #main-slider .dsc .btn2:hover {
-  background: #f10909;
+  background: #39bf4f;
 }
 .home2 #main-slider .dsc .btn-slider {
   margin-left: 6px;
@@ -1146,7 +1146,7 @@ body .nav-menu ul .active > a {
   position: absolute;
   height: 2px;
   width: 72px;
-  background: #f10909;
+  background: #39bf4f;
   bottom: 0;
   left: 50%;
   -ms-transform: translate(-50%, -50%);
@@ -1167,7 +1167,7 @@ body .nav-menu ul .active > a {
   margin: 0 auto;
 }
 .menu-area .single-menu-area .cl-single-menu .overlay .short-desc a:hover {
-  color: #f10909;
+  color: #39bf4f;
 }
 .menu-area .single-menu-area .cl-single-menu .overlay .short-desc .read-more {
   left: 30%;
@@ -1209,7 +1209,7 @@ body .nav-menu ul .active > a {
   padding: 0;
   font-size: 48px;
   line-height: 40px;
-  color: #f10909;
+  color: #39bf4f;
   text-align: center;
   font-family: 'CookieRegular';
   font-weight: normal;
@@ -1248,14 +1248,14 @@ body .nav-menu ul .active > a {
 }
 .menus-area .button-group .btn:hover,
 .menus-area .button-group .btn.active {
-  color: #f10909;
+  color: #39bf4f;
 }
 .menus-area .button-group .btn:hover i,
 .menus-area .button-group .btn.active i {
-  color: #f10909;
+  color: #39bf4f;
 }
 .menus-area .button-group .active2:hover i {
-  background: #f10909 !important;
+  background: #39bf4f !important;
 }
 .menus-area .item {
   background: #f9f9f9;
@@ -1279,7 +1279,7 @@ body .nav-menu ul .active > a {
 }
 .menus-area .item-wrap .inner span {
   font-weight: 500;
-  color: #f10909;
+  color: #39bf4f;
 }
 .menus-area .item-wrap img {
   transition: all 0.5s ease 0s;
@@ -1476,7 +1476,7 @@ body .nav-menu ul .active > a {
   padding: 35px 42px 60px 42px;
 }
 .opening-hours .reservation h2 {
-  color: #f10909;
+  color: #39bf4f;
   font-size: 48px;
   font-family: 'CookieRegular';
   text-align: center;
@@ -1521,8 +1521,8 @@ body .nav-menu ul .active > a {
   transition: all 0.5s ease 0s;
 }
 .opening-hours .reservation .btn-send:hover {
-  background: #f10909 !important;
-  border: 1px solid #f10909 !important;
+  background: #39bf4f !important;
+  border: 1px solid #39bf4f!important;
 }
 .reservation .form-control::-webkit-input-placeholder {
   /* Chrome */
@@ -1575,7 +1575,7 @@ body .nav-menu ul .active > a {
   position: absolute;
   height: 1px;
   width: 0px;
-  background-color: #f10909;
+  background-color: #39bf4f;
   transition: .5s ease width;
 }
 .rs-gellary .portfolio-filter button:before {
@@ -1587,14 +1587,14 @@ body .nav-menu ul .active > a {
   bottom: 0;
 }
 .rs-gellary .portfolio-filter button:hover {
-  color: #f10909;
+  color: #39bf4f;
 }
 .rs-gellary .portfolio-filter button:hover:before,
 .rs-gellary .portfolio-filter button:hover:after {
   width: 30px;
 }
 .rs-gellary .portfolio-filter button.active {
-  color: #f10909;
+  color: #39bf4f;
 }
 .rs-gellary .portfolio-item {
   position: relative;
@@ -1631,7 +1631,7 @@ body .nav-menu ul .active > a {
 .rs-gellary .portfolio-item .p-zoom {
   display: inline-block;
   font-size: 50px;
-  color: #f10909;
+  color: #39bf4f;
   transition: all 0.5s ease 0s;
   position: absolute;
   top: 50%;
@@ -1738,7 +1738,7 @@ body .nav-menu ul .active > a {
 .testimonials-area .container .inner-testimonials h4 {
   font-weight: 500;
   text-transform: uppercase;
-  color: #101010;
+  color: ##101010;
   margin: 12px 0 30px;
 }
 .testimonials-area .container .inner-testimonials .inner {
@@ -1777,10 +1777,10 @@ body .nav-menu ul .active > a {
   position: absolute;
 }
 .testimonials-area .container .slick-dots li button:hover {
-  background: #f10909;
+  background: #39bf4f;
 }
 .testimonials-area .container .slick-active button {
-  background: #f10909;
+  background: #39bf4f;
 }
 .testimonials-area .container .testimonials-nav {
   position: relative;
@@ -2070,10 +2070,10 @@ body .nav-menu ul .active > a {
   transition: all 0.5s ease 0s;
 }
 .our-event-area .inner:hover a {
-  color: #f10909;
+  color: #39bf4f;
 }
 .our-event-area .inner:hover i {
-  color: #f10909;
+  color: #39bf4f;
 }
 .our-event-area .inner:hover .images-left a img {
   opacity: .6;
@@ -2238,7 +2238,7 @@ body .nav-menu ul .active > a {
 }
 .instragram .container .inner {
   max-width: 635px;
-  background: #f10909;
+  background: #39bf4f;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -2276,7 +2276,7 @@ body .nav-menu ul .active > a {
   color: #fff;
 }
 .our-event-area .price {
-  background: #f10909;
+  background: #39bf4f;
   color: #fff;
   padding: 0 8px;
   position: absolute;
@@ -2305,13 +2305,13 @@ body .nav-menu ul .active > a {
   color: #fff;
 }
 .our-event-area .slider-content a {
-  color: #f10909;
+  color: #39bf4f;
   font-style: italic;
   display: block;
   display: none;
 }
 .our-event-area .slider-content a i {
-  color: #f10909;
+  color: #39bf4f;
 }
 .our-event-area .slider-content .date,
 .our-event-area .slider-content .time {
@@ -2321,7 +2321,7 @@ body .nav-menu ul .active > a {
 .our-event-area .slider-content .date i,
 .our-event-area .slider-content .time i {
   font-size: 12px;
-  color: #f10909;
+  color: #39bf4f;
   margin-right: 6px;
 }
 .our-event-area .slider-content .time i {
@@ -2329,7 +2329,7 @@ body .nav-menu ul .active > a {
 }
 .our-event-area .slider-content .date i {
   font-size: 12px;
-  color: #f10909;
+  color: #39bf4f;
   margin-right: 6px;
   position: relative;
   top: -1px;
@@ -2340,11 +2340,11 @@ body .nav-menu ul .active > a {
 .our-event-area .slick-dots button {
   width: 50px;
   height: 5px;
-  border: 1px solid #f10909;
+  border: 1px solid #39bf4f;
   border-radius: 0;
 }
 .our-event-area .slick-dots .slick-active button {
-  background: #f10909;
+  background: #39bf4f;
   border-radius: 0;
 }
 .our-event-area .slick-dots li {
@@ -3314,7 +3314,7 @@ body .nav-menu ul .active > a {
   position: absolute;
   height: 1px;
   width: 0px;
-  background-color: #f10909;
+  background-color: #39bf4f;
   transition: .5s ease width;
 }
 .rs-gallery-page .portfolio-filter button:before {
@@ -3326,14 +3326,14 @@ body .nav-menu ul .active > a {
   bottom: 0;
 }
 .rs-gallery-page .portfolio-filter button:hover {
-  color: #f10909;
+  color: #39bf4f;
 }
 .rs-gallery-page .portfolio-filter button:hover:before,
 .rs-gallery-page .portfolio-filter button:hover:after {
   width: 30px;
 }
 .rs-gallery-page .portfolio-filter button.active {
-  color: #f10909;
+  color: #39bf4f;
 }
 .rs-gallery-page .portfolio-item {
   position: relative;
@@ -3373,7 +3373,7 @@ body .nav-menu ul .active > a {
 .rs-gallery-page .portfolio-item .p-zoom {
   display: inline-block;
   font-size: 50px;
-  color: #f10909;
+  color: #39bf4f;
   transition: all 0.5s ease 0s;
 }
 .rs-gallery-page .portfolio-item .p-zoom:hover {
@@ -3401,7 +3401,7 @@ body .nav-menu ul .active > a {
   margin-top: 10px;
 }
 .rs-gallery-page .portfolio-item .p-desc a {
-  color: #f10909;
+  color:#39bf4f;
 }
 .rs-gallery-page .portfolio-item:hover .portfolio-content {
   opacity: 1;
@@ -3467,7 +3467,7 @@ body .nav-menu ul .active > a {
   font-weight: normal;
   margin: 0 0 26px;
   text-align: center;
-  color: #f10909;
+  color: #39bf4f;
   font-family: 'CookieRegular';
   position: relative;
   padding-bottom: 12px;
@@ -3556,8 +3556,8 @@ body .nav-menu ul .active > a {
   line-height: 35px;
   text-align: center;
   border-radius: 100%;
-  border: 1px solid #f10909;
-  color: #f10909;
+  border: 1px solid #39bf4f;
+  color: #39bf4f;
   opacity: 0;
 }
 .event-page-area .inner .images-content {
@@ -3657,11 +3657,11 @@ body .nav-menu ul .active > a {
   padding: 0 0 25px 0;
 }
 .about-counter-list .fa {
-  color: #f10909;
+  color: #39bf4f;
   font-size: 40px;
 }
 .about-counter-list .fa:hover {
-  color: #f10909;
+  color: #39bf4f;
 }
 /* ------------------------------------
 21.Event Single Css Start Here 
@@ -3696,7 +3696,7 @@ body .nav-menu ul .active > a {
 }
 .single-event-page-area .book-btn {
   border: 1px solid #101010;
-  color: #f10909;
+  color: #39bf4f;
   padding: 8px 20px;
   font-size: 15px;
   font-weight: 500;
@@ -3726,7 +3726,7 @@ body .nav-menu ul .active > a {
   margin-left: 10px;
 }
 .single-event-page-area .social-icon ul li a i:hover {
-  color: #f10909;
+  color: #39bf4f;
 }
 .single-event-page-area .social-icon ul span {
   font-size: 15px;
@@ -4119,7 +4119,7 @@ body .nav-menu ul .active > a {
   text-align: right;
 }
 .menus-page-area .item .item-wrap .inner span a {
-  color: #f10909;
+  color: #39bf4f;
 }
 .menus-page-area .item .item-wrap .inner .price {
   margin-bottom: 8px;
@@ -4225,7 +4225,7 @@ body .nav-menu ul .active > a {
 .contact-page-area .contact-middle .inner-add i,
 .contact-page-area .contact-middle .inner-phn i,
 .contact-page-area .contact-middle .inner-email i {
-  color: #f10909;
+  color: #39bf4f;
   font-size: 30px;
   position: relative;
   z-index: 1;
@@ -4260,7 +4260,7 @@ body .nav-menu ul .active > a {
 .contact-page-area .contact-middle .inner-add p a:hover,
 .contact-page-area .contact-middle .inner-phn p a:hover,
 .contact-page-area .contact-middle .inner-email p a:hover {
-  color: #f10909;
+  color: #39bf4f;
 }
 .contact-page-area .contact-area {
   padding-top: 20px;
@@ -4292,7 +4292,7 @@ body .nav-menu ul .active > a {
   max-width: 100%;
 }
 .contact-page-area .contact-area .btn-send {
-  background: #f10909;
+  background: #39bf4f;
   font-weight: 600;
   color: #ffffff;
   font-size: 14px;
@@ -4368,7 +4368,7 @@ body .nav-menu ul .active > a {
   color: #fff;
 }
 .order-page-area .order-area form .btn-send {
-  background: #f10909;
+  background: #39bf4f;
   border: none;
   height: 40px;
   width: 100%;
@@ -4409,7 +4409,7 @@ body .nav-menu ul .active > a {
   font-size: 18px;
 }
 .shipping-area .button-area ul li.active a {
-  background: #f10909;
+  background: #39bf4f;
   color: #fff;
 }
 .shipping-area .product-list table {
@@ -4741,7 +4741,7 @@ body .nav-menu ul .active > a {
   max-width: 100%;
 }
 .reservation-page .resv-area .btn-send {
-  background: #f10909;
+  background: #39bf4f;
   font-weight: 300;
   color: #ffffff;
   font-size: 14px;
@@ -4817,7 +4817,7 @@ body .nav-menu ul .active > a {
   text-decoration: none;
   font-size: 15px;
   color: #ffffff;
-  background: #f10909;
+  background:#39bf4f;
   padding: 15px 35px;
   transition: all 0.5s ease 0s;
 }
@@ -4873,7 +4873,7 @@ footer .container .social-icon ul li a i {
   transition: all 0.5s ease 0s;
 }
 footer .container .social-icon ul li a i:hover {
-  background: #f10909;
+  background: #39bf4f;
 }
 footer .container .address {
   line-height: 26px;
@@ -4938,7 +4938,7 @@ footer .copyright:before {
   position: absolute;
   height: 1px;
   width: 100px;
-  background: #f10909;
+  background: #39bf4f;
   top: 0;
   left: 50%;
   -ms-transform: translate(-50%, -50%);
@@ -4952,7 +4952,7 @@ footer .copyright:before {
   position: fixed;
   bottom: 30px;
   right: 20px;
-  background: #f10909;
+  background: #39bf4f;
   width: 50px;
   height: 50px;
   display: block;
@@ -5109,7 +5109,7 @@ footer .copyright:before {
   font-family: fontawesome;
 }
 .testimonial-section .testimonil-details .testimonil-text .person-details h4 {
-  color: #f10909;
+  color:#39bf4f;
   margin: 0 0 5px;
   font-weight: 500;
   font-size: 18px;
@@ -5122,7 +5122,7 @@ footer .copyright:before {
 }
 .slider-main.bg-img .dsc .btn2 {
   transform: skewX(0deg);
-  background: #f10909;
+  background: #39bf4f;
 }
 .slider-main.bg-img .dsc .btn2:hover {
   background: transparent;
@@ -5132,7 +5132,7 @@ footer .copyright:before {
   background: transparent;
 }
 .slider-main.bg-img .dsc .btn1:hover {
-  background: #f10909;
+  background: #39bf4f;
 }
 .home3-chef {
   padding-bottom: 100px;
@@ -5145,7 +5145,7 @@ footer .copyright:before {
     35. Preloader CSS
 -------------------------------------*/
 #loading {
-  background-color: #f10909;
+  background-color: #39bf4f;
   height: 100%;
   width: 100%;
   position: fixed;
@@ -5246,13 +5246,13 @@ footer .copyright:before {
   transition: all 0.5s ease 0s;
 }
 .home-two-services-area ul li:nth-child(1) {
-  background: #f10909;
+  background: #39bf4f;
 }
 .home-two-services-area ul li:nth-child(2) {
   background: #000;
 }
 .home-two-services-area ul li:nth-child(3) {
-  background: #f10909;
+  background: #39bf4f;
 }
 .home-two-services-area ul li:nth-child(4) {
   background: #b52929;
